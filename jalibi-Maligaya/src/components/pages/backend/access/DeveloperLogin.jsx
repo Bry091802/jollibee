@@ -153,7 +153,7 @@ const DeveloperLogin = () => {
 
                     <Link
                       to="/"
-                      className="text-sm text-center block mt-5 hover:text-accent center-all gap-2"
+                      className="text-xs text-center block mt-5 hover:text-accent center-all gap-2"
                     >
                       <ArrowLeft size={15} />
                       Go Back to Kiosk
